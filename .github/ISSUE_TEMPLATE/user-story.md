@@ -1,12 +1,14 @@
----
-name: User Story
-about: Planning user Story
-title: ''
-labels: ''
-assignees: ''
-
----
-
 as a <role>
 i need <function>
 so that <benefit>
+
+  ### Details and Assumptions
+ * [document what you know]
+  
+  ### Acceptance Criteria 
+  
+  ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
